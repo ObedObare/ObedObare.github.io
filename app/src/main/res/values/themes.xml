@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.LuminaStudios" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorPrimaryVariant">@color/gold_dark</item>
+        <item name="colorOnPrimary">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:textColorPrimary">@color/foreground</item>
+        <item name="android:textColorSecondary">@color/muted</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bg</item>
+    </style>
+
+    <style name="CustomCalendar" parent="Theme.AppCompat">
+        <item name="android:dateTextAppearance">@style/CalendarDateText</item>
+        <item name="android:weekDayTextAppearance">@style/CalendarWeekText</item>
+        <item name="android:calendarTextColor">@color/foreground</item>
+        <item name="colorAccent">@color/accent_blue</item>
+    </style>
+
+    <style name="CalendarDateText">
+        <item name="android:textColor">@color/foreground</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="CalendarWeekText">
+        <item name="android:textColor">@color/accent_blue</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

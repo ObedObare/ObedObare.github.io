@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:contentDescription="Visual Data" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/scrim_bottom"
+        android:alpha="0.7" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CLASSIFICATION"
+            android:textColor="@color/accent_blue"
+            android:textSize="12sp"
+            android:letterSpacing="0.4"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entity Name"
+            android:textColor="@color/foreground"
+            android:textSize="42sp"
+            android:fontFamily="sans-serif-thin"
+            android:layout_marginTop="8dp" />
+
+        <View
+            android:layout_width="60dp"
+            android:layout_height="2dp"
+            android:background="@color/gold"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tap to view full meta-data analysis of this visual asset."
+            android:textColor="@color/muted"
+            android:textSize="13sp"
+            android:layout_marginTop="24dp"
+            android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

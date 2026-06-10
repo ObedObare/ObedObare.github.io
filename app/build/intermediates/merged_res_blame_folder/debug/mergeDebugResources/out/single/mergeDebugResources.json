@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_hud_pattern.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_hud_pattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_service.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_button_gold.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_button_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_contact.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_sample2.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\sample2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_pricing_detail.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_pricing_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_photo.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_booking.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_scrim_bottom.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\scrim_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_button_futuristic.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_button_futuristic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_sample4.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\sample4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_pricing.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_pricing.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_photo_full.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_photo_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_services.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_archive.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_archive.xml"
+    },
+    {
+        "merged": "com.lumina.studios.app-debug-36:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.lumina.studios.app-main-38:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_bg_glass.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\bg_glass.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_sample1.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\sample1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_admin_creation.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_admin_creation.xml"
+    },
+    {
+        "merged": "com.lumina.studios.app-debug-36:/layout_activity_admin_documentation.xml.flat",
+        "source": "com.lumina.studios.app-main-38:/layout/activity_admin_documentation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_item_main_story.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\drawable_sample3.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\drawable\\sample3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_photo_detail.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_photo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_booking.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\raw_sample.mp4.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\raw\\sample.mp4"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-debug-36:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_about.xml"
+    }
+]

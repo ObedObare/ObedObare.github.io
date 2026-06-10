@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/bg_glass"
+            android:src="@android:drawable/ic_menu_revert"
+            app:tint="@color/foreground"
+            android:contentDescription="Back"
+            android:layout_marginBottom="32dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LUMINA // THE MANIFESTO"
+            android:textColor="@color/accent_blue"
+            android:textSize="11sp"
+            android:letterSpacing="0.4"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Beyond the Lens"
+            android:textColor="@color/foreground"
+            android:textSize="42sp"
+            android:fontFamily="sans-serif-thin"
+            android:layout_marginBottom="32dp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_marginBottom="40dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/sample1"
+                android:scaleType="centerCrop"
+                android:alpha="0.8"
+                android:contentDescription="Visionary Capture" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/scrim_bottom" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_glass" />
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OUR PHILOSOPHY"
+            android:textColor="@color/gold"
+            android:textSize="11sp"
+            android:letterSpacing="0.3"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="At Lumina Studios, we believe that photography is the architecture of time. Based in Nairobi, we capture the vibrant pulse of East Africa through a futuristic lens. Our studio is more than just a space; it's a high-tech laboratory where light meets legacy."
+            android:textColor="@color/foreground"
+            android:textSize="18sp"
+            android:lineSpacingExtra="8dp"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginBottom="40dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="THE STUDIO EXPERIENCE"
+            android:textColor="@color/gold"
+            android:textSize="11sp"
+            android:letterSpacing="0.3"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Equipped with the latest in digital sensor technology and cinematic lighting, we offer a seamless transition from concept to creation. Whether it's a high-fashion editorial or a deep-dive architectural study, we synchronize our tools with your vision to create something immortal."
+            android:textColor="@color/muted"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginBottom="32dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="THE TECH STACK"
+            android:textColor="@color/gold"
+            android:textSize="11sp"
+            android:letterSpacing="0.3"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our facility features a state-of-the-art 3,000 sq. ft. studio floor, complete with motorized ceiling rails and a full-spectrum color-controlled environment. We utilize Medium Format Phase One systems and Arri cinematic optics to ensure that every pixel carries the weight of professional excellence."
+            android:textColor="@color/muted"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginBottom="48dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CORE OPERATORS"
+            android:textColor="@color/gold"
+            android:textSize="11sp"
+            android:letterSpacing="0.3"
+            android:layout_marginBottom="20dp" />
+
+        <!-- Operator 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="@drawable/bg_glass"
+            android:padding="20dp"
+            android:layout_marginBottom="16dp">
+            <View
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@color/accent_blue_glow" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="24dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mike Munyao"
+                    android:textColor="@color/foreground"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Visual Architect"
+                    android:textColor="@color/accent_blue"
+                    android:textSize="12sp"
+                    android:letterSpacing="0.1" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- Operator 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="@drawable/bg_glass"
+            android:padding="20dp"
+            android:layout_marginBottom="40dp">
+            <View
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@color/gold_glow" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginStart="24dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Eugene Okelo"
+                    android:textColor="@color/foreground"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Creative Strategist"
+                    android:textColor="@color/gold"
+                    android:textSize="12sp"
+                    android:letterSpacing="0.1" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/exploreArchiveBtn"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Enter Visual Archive"
+            android:textColor="@color/bg"
+            android:background="@drawable/bg_button_futuristic"
+            android:textAllCaps="true"
+            android:letterSpacing="0.2"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp" />
+
+    </LinearLayout>
+</ScrollView>

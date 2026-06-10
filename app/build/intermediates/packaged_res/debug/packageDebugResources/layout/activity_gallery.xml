@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_hud_pattern">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/mainViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/bottomNav" />
+
+    <!-- Top HUD Bar Overlaid -->
+    <LinearLayout
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/scrim_bottom"
+        android:rotation="180"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:rotation="180">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LUMINA // NEXUS"
+                android:textColor="@color/accent_blue"
+                android:textSize="10sp"
+                android:letterSpacing="0.4"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/pageTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="STORY"
+                android:textColor="@color/foreground"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-thin" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/adminPanelBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="ADMIN PANEL"
+        android:textColor="@color/accent_blue"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:background="@drawable/bg_glass"
+        android:paddingHorizontal="12dp"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/signOutBtn" />
+
+    <Button
+        android:id="@+id/signOutBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="LOGOUT"
+        android:textColor="@color/gold"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:background="@drawable/bg_glass"
+        android:paddingHorizontal="12dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SESSION_OPERATOR // GUEST_INIT"
+        android:textColor="@color/accent_blue"
+        android:textSize="10sp"
+        android:letterSpacing="0.2"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="16dp"
+        android:padding="4dp"
+        android:background="@drawable/bg_glass"
+        app:layout_constraintTop_toBottomOf="@id/signOutBtn"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Tab Navigation -->
+    <LinearLayout
+        android:id="@+id/bottomNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="12dp"
+        android:background="@drawable/bg_glass"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tabStory"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="STORY"
+                android:textColor="@color/accent_blue"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/tabArchive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ARCHIVE"
+                android:textColor="@color/muted"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/tabModules"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="MODULES"
+                android:textColor="@color/muted"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/tabPricing"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="PRICING"
+                android:textColor="@color/muted"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/tabBooking"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="BOOKING"
+                android:textColor="@color/muted"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/tabLink"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="LINK"
+                android:textColor="@color/muted"
+                android:textSize="9sp"
+                android:gravity="center"
+                android:letterSpacing="0.1"
+                android:padding="8dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

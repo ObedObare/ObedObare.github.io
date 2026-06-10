@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#05070A</color>
+    <color name="surface">#0F1219</color>
+    <color name="border">#1A1F2B</color>
+    <color name="foreground">#FFFFFF</color>
+    <color name="muted">#6B7280</color>
+    <color name="gold">#FFD700</color>
+    <color name="gold_glow">#4DFFD700</color>
+    <color name="gold_dark">#B58E47</color>
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="accent_blue">#00F2FF</color>
+    <color name="accent_blue_glow">#3300F2FF</color>
+</resources>

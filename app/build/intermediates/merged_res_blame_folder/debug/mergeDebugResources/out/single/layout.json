@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_photo.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_booking.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_pricing.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_pricing.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_archive.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_gallery.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_story.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_services.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_contact.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_video.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_pricing_detail.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_pricing_detail.xml"
+    },
+    {
+        "merged": "com.lumina.studios.app-mergeDebugResources-35:/layout/activity_admin_documentation.xml",
+        "source": "com.lumina.studios.app-main-38:/layout/activity_admin_documentation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_main_booking.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_main_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_services.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "com.lumina.studios.app-mergeDebugResources-35:/layout/activity_admin_dashboard.xml",
+        "source": "com.lumina.studios.app-main-38:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_photo_full.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_photo_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\item_service.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_admin_creation.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_admin_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_photo_detail.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_photo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-mergeDebugResources-35:\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.4.1\\com.lumina.studios.app-main-38:\\layout\\activity_contact.xml"
+    }
+]
